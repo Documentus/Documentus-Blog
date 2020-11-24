@@ -9,7 +9,7 @@ entries:
     output: web
     folderitems:
     - title: IoT
-      url: /news.html
+      url: /pages_news_news.html
       output: web
     - title: Theme instructions
       url: /mydoc_introduction.html
