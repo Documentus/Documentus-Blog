@@ -9,7 +9,7 @@ permalink: mydoc_about.html
 folder: mydoc
 ---
 
-{% include image.html file="Jamezy_Smiling.png"  alt="Jekyll" caption="This is a sample caption" %} My name is James Stevenson, and I'm a technical writer, blogger, and IoT fanatic based in Niort, France. For more details, see my [technical writing freelance site](http://www.documentus.co.uk).
+{% include image.html file="Jamezy_Smiling.png"  alt="JFS" caption="James F Stevenson" %} My name is James Stevenson, and I'm a technical writer, blogger, and IoT fanatic based in Niort, France. For more details, see my [technical writing freelance site](http://www.documentus.co.uk).
 
 I have used this theme to expand my knowledge and experience with documentation projects. This theme has undergone several major iterations, and now it's fairly stable and full of all the features that I need. You are welcome to use it for your documentation projects for free.
 
