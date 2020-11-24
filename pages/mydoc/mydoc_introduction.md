@@ -9,7 +9,7 @@ folder: mydoc
 
 The intention of this site is to be an open door for everyone interested in API Documentation, Coding, IoT, AI, Conventional Technical Writing, Content & CMS. In fact, if your interest is in any way related to technology and writing technical documents, then WELCOME to you.
 
-As for house rules, the site is generally unmoderated, however there are profanity filters and software in place, hopefully they will not be needed. Here are also geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this site to author all of your documentation for each of your products. The blog is built to accommodate documentation for multiple products on the same site.
+As for house rules, the site is generally unmoderated, however there are profanity filters and software in place, hopefully they will not be needed. Here we are also geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this site to author all of your documentation for each of your products. The blog is built to accommodate documentation for multiple products on the same site.
 
 ## Survey of features
 
