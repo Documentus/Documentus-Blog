@@ -8,7 +8,7 @@ topnav:
     - title: IoT
       url: /news.html
 
-#Topnav dropdowns
+Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
