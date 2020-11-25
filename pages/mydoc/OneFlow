@@ -1,0 +1,56 @@
+<li>create contracts directly from a web page form</li>
+<li>and much, much more!</li>
+</ul>
+<div class="section" id="getting-started">
+<h2>Getting started<a class="headerlink" href="#getting-started" title="Permalink to this headline">¶</a></h2>
+<p><strong>Step 1 - Create a Oneflow account</strong></p>
+<p>If you do not already have an account, head over to the Oneflow application and <a class="reference external" href="https://app.oneflow.com/signup">create a trial account</a>.</p>
+<p><strong>Step 2 - Generate an API token</strong></p>
+<p>Once you have your account, go to <a class="reference external" href="https://integrations.oneflow.com/docs/redirect/account_extensions">the extensions page</a> and enable the <em>API token extension</em>.</p>
+<p>When enabled, create an API token and temporarily write down the token you get (you will only see it once).</p>
+<p><strong>Step 3 - Setup authentication</strong></p>
+<p>Read the <a class="reference internal" href="getting_started/authentication.html#getting-started-introduction-authentication"><span class="std std-ref">authentication</span></a> page and follow the instructions on how to setup authentication.</p>
+<p><strong>Step 4 - Make your first request</strong></p>
+<p>Make a request to the <a class="reference internal" href="api/core.html#api-core"><span class="std std-ref">ping</span></a> endpoint to check your connection and authentication.</p>
+<div class="content-tabs docutils container">
+<div class="tab-content docutils container" id="tab-tab1">
+<p class="tab-title">cURL</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>curl -X GET <span class="s1">&#39;https://app.oneflow.com/api/ping&#39;</span> <span class="se">\</span>
+-H <span class="s1">&#39;Content-Type: application/json&#39;</span> <span class="se">\</span>
+-H <span class="s1">&#39;X-Flow-API-Token: API_TOKEN&#39;</span>
+</pre></div>
+</div>
+</div>
+<div class="tab-content docutils container" id="tab-tab2">
+<p class="tab-title">Python</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">requests</span>
+
+<span class="n">api_token</span> <span class="o">=</span> <span class="s1">&#39;xxxx&#39;</span>
+
+<span class="n">headers</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s1">&#39;Content Type&#39;</span><span class="p">:</span> <span class="s1">&#39;application/json&#39;</span><span class="p">,</span>
+    <span class="s1">&#39;X-Flow-API-Token&#39;</span><span class="p">:</span> <span class="n">api_token</span><span class="p">,</span>
+<span class="p">}</span>
+<span class="n">r</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;https://app.oneflow.com/api/ping&#39;</span><span class="p">,</span> <span class="n">headers</span><span class="o">=</span><span class="n">headers</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">r</span><span class="o">.</span><span class="n">status_code</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>If everything is working properly you should get a HTTP 200 response with an empty JSON object in the response body (<code class="docutils literal notranslate"><span class="pre">{}</span></code>).</p>
+<p><strong>Step 5 - Build your workflows!</strong></p>
+<p>Now you are ready to start building your automation workflow!</p>
+<p>We suggest that you take a look at the <a class="reference internal" href="getting_started/introduction.html#getting-started-introduction"><span class="std std-ref">rest of the introduction</span></a> and then head over to the documentation for the REST API and examine <a class="reference internal" href="api/agreements.html#api-agreements"><span class="std std-ref">the endpoint for creating agreements</span></a>.</p>
+</div>
+<div class="section" id="support">
+<h2>Support<a class="headerlink" href="#support" title="Permalink to this headline">¶</a></h2>
+<p>If you’re already a customer and have questions regarding our API, contact your customer success manager and they will help you out,
+or feel free to email us at <a class="reference external" href="mailto:support&#37;&#52;&#48;oneflow&#46;com">support<span>&#64;</span>oneflow<span>&#46;</span>com</a>.</p>
+<p>If you’re not yet a customer, contact our sales executive at <a class="reference external" href="mailto:sales&#37;&#52;&#48;oneflow&#46;com">sales<span>&#64;</span>oneflow<span>&#46;</span>com</a> and they will answer any questions you might have about the possibilities of
+using Oneflow to automate you contract management!</p>
+<p>For general help with the Oneflow application, please go to the <a class="reference external" href="https://support.oneflow.com/">Oneflow help center</a> or contact <a class="reference external" href="mailto:support&#37;&#52;&#48;oneflow&#46;com">support<span>&#64;</span>oneflow<span>&#46;</span>com</a>.</p>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
