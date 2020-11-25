@@ -6,22 +6,22 @@ topnav:
     - title: GitHub
       external_url: https://github.com/Documentus/Documentus-Blog
     - title: IoT
-      url: /news
+      url: /news.html
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: Document Services
       folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
+        - title: API Document Writing
+          external_url: https://www.documentus.co.uk
+        - title: Conventional Document Writing
+          external_url: http://www.documentus.co.uk
+        - title: Documentation Systems & EDMS
+          external_url: http://www.documentus.co.uk
+        - title: IoT on My Blog
+          external_url: https://github.com/Documentus/Documentus-Blog/IoT
     - title: Products
       folderitems:
         - title: Jekyll Documentation Theme
