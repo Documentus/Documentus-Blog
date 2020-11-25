@@ -21,7 +21,7 @@ topnav_dropdowns:
         - title: Documentation Systems & EDMS
           external_url: http://www.documentus.co.uk
         - title: IoT on My Blog
-          external_url: https://github.com/Documentus/Documentus-Blog/IoT
+          external_url: https://documentus.github.io/Documentus-Blog/news.html
     - title: Products
       folderitems:
         - title: Jekyll Documentation Theme
