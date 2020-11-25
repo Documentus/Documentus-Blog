@@ -24,7 +24,7 @@ topnav_dropdowns:
           external_url: https://documentus.github.io/Documentus-Blog/news.html
     - title: Products
       folderitems:
-        - title: Jekyll Documentation Theme
+        - title: My Portfolio Samples
           url: /mydoc_introduction.html
         - title: Product 1
           url: /p1_landing_page.html
