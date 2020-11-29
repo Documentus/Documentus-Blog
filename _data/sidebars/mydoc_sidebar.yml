@@ -2,10 +2,9 @@
 
 entries:
 - title: sidebar
-  product:Documentus 
-
-  version: 1.0
-  folders: images
+  product: Documentus 
+  version: 
+  folders: 
 
   - title:
     output: pdf
