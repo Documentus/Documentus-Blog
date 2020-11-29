@@ -2,10 +2,10 @@
 
 entries:
 - title: sidebar
-  product:<p><img src="{{ "images/Docu_Code_NewNew.jpg" }}" alt="Company logo"/></p>
+  product:Documentus 
 
   version: 1.0
-  folders:
+  folders: images
 
   - title:
     output: pdf
