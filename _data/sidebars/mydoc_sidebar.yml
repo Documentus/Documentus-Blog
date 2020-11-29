@@ -2,7 +2,8 @@
 
 entries:
 - title: sidebar
-  product: All Things Documentation
+  product: {% include image.html file="Docu_Code_NewNew.jpg"%}
+
   version: 1.0
   folders:
 
