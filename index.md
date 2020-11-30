@@ -8,7 +8,8 @@ toc: false
 summary: Welcome to my blog. I'm James F Stevenson, propietor of Documentus. I'm a freelance documentation specialist based in France, but I provide documentation services world-wide. So, if your looking for "anything documents", you are in the correct location. I also invite interesting and (clean) comments about 'docs as code', IoT and other cool stuff.
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+{% include note.html content="You may or may not know it, but freelancers like me sometimes struggle between assignments. I have a freelance business here <a alt='Documentation' href='http://www.jamesmediacompany.co.uk'>Documentus</a>. If you'd like contribute in any way that you can, I would be extremely grateful. Alternatively, if you require any of the services listed <a href='https://www.documentus.co.uk</a>. I am happy to privide a full consultation and quotation." %}
+  
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Documentus" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ## Build the Theme
