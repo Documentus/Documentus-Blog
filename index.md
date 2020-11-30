@@ -4,6 +4,7 @@ keywords: homepage documents API information
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
+toc: false
 summary: Welcome to my blog. I'm James F Stevenson, propietor of Documentus. I'm a freelance documentation specialist based in France, but I provide documentation services world-wide. So, if your looking for "anything documents", you are in the correct location. I also invite interesting and (clean) comments about 'docs as code', IoT and other cool stuff.
 ---
 
