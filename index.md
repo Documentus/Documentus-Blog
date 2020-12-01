@@ -8,7 +8,7 @@ toc: false
 summary: Welcome to my office and my blog. I'm **James F Stevenson**, propietor of Documentus. I'm a freelance documentation specialist based in France, but I provide documentation services world-wide. So, if your looking for "anything documents", you are in the correct location. I also invite interesting and (clean) comments about 'docs as code', IoT and other cool stuff.
 ---
 <img class="navbar-logo" style="width: 85%; vertical-align: text-bottom" src="{{ "images/My_Office2.jpg" }}">    
-{% include note.html content="You may or may not know it, but freelancers like me sometimes struggle between assignments. I have a freelance business here <a alt='Documentation' href='http://www.jamesmediacompany.co.uk'>Documentus</a>. If you'd like contribute in any way that you can, I would be extremely grateful. Alternatively, if you require any of the services listed <a alt='Documentation' href='http://www.jamesmediacompany.co.uk'Documentus</a> I am happy to provide a full consultation and quotation." %}
+{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
 
 
 ## So, what's it all about?
