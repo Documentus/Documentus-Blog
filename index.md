@@ -5,9 +5,9 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
 toc: false
-summary: Welcome to my office and my blog. I'm **James F Stevenson**, propietor of Documentus. I'm a freelance documentation specialist based in France, but I provide documentation services world-wide. So, if your looking for "anything documents", you are in the correct location. I also invite interesting and (clean) comments about 'docs as code', IoT and other cool stuff.
+summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
 ---
-< img class="navbar-logo" style="width: 85%; vertical-align: text-bottom" src="{{ "images/My_Office2.jpg" }}">    
+<img class="navbar-logo" style="width: 85%; vertical-align: text-bottom" src="{{ "images/My_Office2.jpg" }}">    
 {% include note.html content= "You may or may not know it, but freelancers like me sometimes struggle between assignments. I have a freelance business here <a alt='Documentation' href='http://www.jamesmediacompany.co.uk'>Documentus</a>.If you'd like contribute in any way that you can, I would be extremely grateful. Alternatively, if you require any of the services listed <a alt='Documentation' href='http://www.jamesmediacompany.co.uk'>Documentus</a>. I am happy to provide a full consultation and quotation." %}
 
 
