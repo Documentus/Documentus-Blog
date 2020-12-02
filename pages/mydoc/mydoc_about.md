@@ -1,7 +1,6 @@
 ---
 title: About the Author
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
-last_updated: November 23, 2020
+keywords: documentation, api, technical writers, help authoring tools, technical_Authors
 tags: [getting_started]
 summary: "I am using GitHub for my blog to showcase my portfolio as a professional technical writer."
 sidebar: mydoc_sidebar
