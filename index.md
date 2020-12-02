@@ -7,12 +7,14 @@ permalink: index.html
 toc: false
 summary: Welcome to my office and my blog. I'm James F Stevenson, propietor of Documentus. I'm a freelance technical writer and documentation specialist based in France, but I also provide writing and documentation services world-wide. So, if your looking for "anything writing or documents", you are in the correct location. I also invite interesting and (clean) comments about 'docs as code', IoT and other cool stuff..
 ---
-<img class="navbar-logo" style="width: 85%; vertical-align: text-bottom" src="{{ "images/My_Office2.jpg" }}">    
-{% include note.html content="You may or may not know it, but freelancers like me sometimes struggle between assignments. I have a freelance business here <a alt='Documentation' href='http://www.jamesmediacompany.co.uk'>Documentus</a>. If you'd like contribute in any way that you can, I would be extremely grateful. Alternatively, if you require any of the services listed on my site, I am happy to provide a full consultation and quotation." %}
+
 
 ## So, what's it all about?
 
 I'm passionate about everything around technical communications, technical writing, and the Internet of Things
+
+<img class="navbar-logo" style="width: 85%; vertical-align: text-bottom" src="{{ "images/My_Office2.jpg" }}">    
+{% include note.html content="You may or may not know it, but freelancers like me sometimes struggle between assignments. I have a freelance business here <a alt='Documentation' href='http://www.jamesmediacompany.co.uk'>Documentus</a>. If you'd like contribute in any way that you can, I would be extremely grateful. Alternatively, if you require any of the services listed on my site, I am happy to provide a full consultation and quotation." %}
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Documentus" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script>
 
