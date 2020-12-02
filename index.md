@@ -5,7 +5,7 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
 toc: false
-summary: Welcome to my office and my blog. I'm James F Stevenson, propietor of Documentus. I'm a freelance technical writer and documentation specialist based in France, but I also provide writing and documentation services world-wide. So, if your looking for "anything writing or documents", you are in the correct location. I also invite interesting and (clean) comments about 'docs as code', IoT and other cool stuff..
+summary: Welcome to my office and my blog. I'm ***James F Stevenson***, propietor of Documentus. I'm a freelance technical writer and documentation specialist based in France, but I also provide writing and documentation services world-wide. So, if your looking for "anything writing or documents", you are in the correct location. I also invite interesting and (clean) comments about 'docs as code', IoT and other cool stuff..
 ---
 
 
