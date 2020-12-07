@@ -19,7 +19,7 @@ Throughout these pages, I discuss current trends in API Docs, IoT, Technical Wri
 Throughout these pages, I discuss current trends in API Docs, IoT, Technical Writing and indeed, a variety of technical subjects and the impact they have on society and our lives.
 But before your eyes glaze over, let me assure you that this blog is written in plain English, for non-technical and technical readers alike.
 
-All too often we lose the reading audience by drowning them in techno-jargon and impossible concepts in an alien tongue. Not so at my blog. This is a laid-back blog with plenty of simple explanations and pictures! Of course there is high techno speak for those that enjoy that sort of thing-especially in the API section.
+All too often we lose the reading audience by drowning them in techno-jargon and impossible concepts in an alien tongue. Not so at my blog. This is a laid-back blog with plenty of simple explanations and pictures! Of course there is high techno speak for those who enjoy that sort of thing-especially in the API section.
 
 
 {% include note.html content="You may or may not know it, but freelancers like me sometimes struggle between assignments. I have a freelance business here <a alt='Documentation' href='http://www.jamesmediacompany.co.uk'>Documentus</a>. If you'd like contribute in any way that you can, I would be extremely grateful. Alternatively, if you require any of the services listed on my site, I am happy to provide a full consultation and quotation." %}
