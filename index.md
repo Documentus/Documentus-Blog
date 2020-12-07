@@ -4,16 +4,6 @@ keywords: documents API writing information homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1LVE54024X"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-1LVE54024X');
-</script>
 toc: false
 summary: Welcome to my office and my blog. I'm James F Stevenson, propietor of Documentus. I'm a freelance technical writer and documentation specialist based in France, but I also provide writing and documentation services world-wide. So, if your looking for "anything writing or documents", you are in the correct location. I also invite interesting and (clean) comments about 'docs as code', IoT and other cool stuff..
 ---
